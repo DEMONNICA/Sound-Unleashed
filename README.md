@@ -1,29 +1,32 @@
-> ![Image](https://github.com/user-attachments/assets/d7dcd4f5-37b2-4025-93c7-6f6780a4dca4)
+> ![Image](https://github.com/user-attachments/assets/b920d89c-232f-4d06-b165-db3d41062cb3)
 
 > [!NOTE]
-> - Apply advanced audio properties, disable safe volume limits, and optimize output for consistent high-quality sound on every boot.
+> - Deliver ultimate audio enhancement with chipset-specific optimizations (MediaTek & Qualcomm), full high-resolution support, Dolby/Dirac effects, maximum volume without restrictions, deep buffer & low-latency modes, backup/restore of original properties, and seamless service refresh for pristine, powerful sound on every boot.
 <hr/>
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. Bypass Safe Media Volume. ✔️  
-> 2. Deactivate Safe Media Volume. ✔️  
-> 3. Maximum Media Volume Set (Headset & Speaker). ✔️  
-> 4. Enable Audio High-Resolution (24-bit / 96kHz). ✔️  
-> 5. Activate Deep Buffer & Low-Latency Mode. ✔️  
-> 6. Force Multi-Stream Offload & Gapless Playback. ✔️  
-> 7. Enable Dolby DS2 / Dolby Atmos Support. ✔️  
-> 8. Disable Surround Sound Recording (Optional). ✔️  
-> 9. Force Software AAC Encoder for Better Quality. ✔️  
-> 10. Disable Speaker Calibration for Raw Output. ✔️  
-> 11. Dynamic Property Injection via `resetprop`. ✔️  
-> 12. Automatic Audio Service Refresh after Boot. ✔️  
-> 13. Qualcomm Fluence Noise Cancellation. ✔️  
-> 14. And many more optimizations. ✔️  
+> 1. Bypass & Disable Safe Media Volume Warning. ✔️  
+> 2. Maximum Volume Boost for Headset & Speaker (100% Full Scale). ✔️  
+> 3. True High-Resolution Audio Support (24-bit / 96kHz). ✔️  
+> 4. Enable Deep Buffer for Smoother Playback & Low-Latency Mode. ✔️  
+> 5. Force Audio Offload with Multi-Stream, Gapless Playback & Passthrough. ✔️  
+> 6. Activate Dolby DS2 / Dolby Atmos Enhancements. ✔️  
+> 7. Enable Dirac Audio Processing (Music & Speaker Optimization). ✔️  
+> 8. Full Spatial Audio & Ambisonic Support. ✔️  
+> 9. Hi-Fi Audio Mode with USB Super Hi-Fi & TFA Calibration. ✔️  
+> 10. Multi-Channel Audio Support (Including 5.1 Headset). ✔️  
+> 11. Optimized Speaker Stereo & Surround Sound Experience. ✔️  
+> 12. Advanced Audio Effects (HD EQ, Vocal Boost, Game Mode, etc.). ✔️  
+> 13. Qualcomm Fluence Noise Cancellation & Custom Stereo Features. ✔️  
+> 14. Chipset-Specific Tweaks (Dedicated Optimizations for MediaTek & Qualcomm). ✔️  
+> 15. Safe Backup & Full Restore of Original Audio Properties on Uninstall. ✔️  
+> 16. Dynamic Property Injection via `resetprop` with Service Auto-Refresh. ✔️  
+> 17. And many more deep audio enhancements for ultimate sound quality. ✔️
 <hr/>
 
 > [!TIP]
-> 1. Supports `Magisk` `KernelSU - NEXT` `APatch` and `SukiSU`.
+> 1. Supports `Magisk` `APatch` `SukiSU` `KernelSU` and `other variants`.
 > 2. Minimum Android `10 sdk 29`.
 <hr/>
 
