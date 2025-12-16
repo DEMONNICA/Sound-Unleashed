@@ -2,6 +2,25 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [6.0.0] `THE FINAL END`
+> 
+> - Changes to the module banner for `KSUN` users.
+> - Unified root detection function `detect_root_all()` that replaces the previous separate functions for Magisk, APatch, and KernelSU variants.
+> - Detection of spoofed KernelSU variants (e.g., "Wild KSU Spoofed", "KernelSU Next Spoofed", "KernelSU Spoofed").
+> - "Suspected" flag for APatch when the official package or directory is missing.
+> - Consolidated and improved root detection logic for better coverage of modern KernelSU forks and variants.
+> - Simplified APatch version display (uses a single KernelPatch version fetch).
+> - More robust handling of edge cases in root manager detection (e.g., fallback when package is missing but ksud reports a variant).
+> - Chipset detection (MediaTek vs Qualcomm) in both `post-fs-data.sh` and `service.sh` to apply chipset-specific audio properties.
+> - Proper restoration of audio properties on uninstall (`uninstall.sh` now reads from backup file and restores values).
+> - Split audio tweaks into `post-fs-data.sh` (read-only `ro.*` properties) and `service.sh` (persistent and runtime properties).
+> - Significantly expanded the list of applied audio properties compared to the previous universal list.
+> - More reliable property application (checks if property exists in current `getprop` output before overriding).
+> - Safer service restart (kills `audioserver` and `mediaserver` after property changes).
+> - Universal single-list approach for audio properties (replaced with chipset-specific sets).
+> - Other minor fixes for module stability.
+---
+
 > [5.0.0] `FINAL`
 > 
 > - `verify.sh`: Upgraded to multi-algorithm hash fallback (SHA512→384→256→224→1)
