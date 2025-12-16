@@ -1,7 +1,7 @@
 id=UNLEASHED
 name=Sound Unleashed
-version=5.0.0
-versionCode=500
+version=6.0.0
+versionCode=600
 author=@illumi
-description=Apply advanced audio properties, disable safe volume limits, and optimize output for consistent high-quality sound on every boot.
+description=Deliver ultimate audio enhancement with chipset-specific optimizations (MediaTek & Qualcomm), full high-resolution support, Dolby/Dirac effects, maximum volume without restrictions, deep buffer & low-latency modes, backup/restore of original properties, and seamless service refresh for pristine, powerful sound on every boot.
 banner=https://raw.githubusercontent.com/DEMONNICA/Sound-Unleashed/refs/heads/main/UNLEASHED.jpg
