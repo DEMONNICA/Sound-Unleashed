@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/b920d89c-232f-4d06-b165-db3d41062cb3)
+> ![Image](https://github.com/user-attachments/assets/1a2c2332-6f34-4ea4-b915-82fa53428282)
 
 > [!NOTE]
 > - Deliver ultimate audio enhancement with chipset-specific optimizations (MediaTek & Qualcomm), full high-resolution support, Dolby/Dirac effects, maximum volume without restrictions, deep buffer & low-latency modes, backup/restore of original properties, and seamless service refresh for pristine, powerful sound on every boot.
