@@ -2,7 +2,24 @@
 > - All significant changes to this project will be documented here.
 ---
 
-> [6.6.6] `NEXT`
+> [7.0.0]
+>
+> - License Changes.
+> - Added `Donate` action in module.
+> - Changed banner module.
+> - Changed the structure of `README.md` for a better impression.
+> - Changed the module description to be more professional.
+> - Updated `customize.sh and verify.sh` for better future performance.
+> - Improvements And updates And some changes to post-fs-data.sh.
+> - Removed some unnecessary code sections in service.sh for module stability.
+> - Now there is no longer any exception `SoC/Chipset` can now be used in various devices.
+> - Now the property will be checked for availability before being changed.
+> - Properties that fail the check will be sent to `system.prop`.
+> - Updated `uninstall.sh` for a cleaner uninstall.
+> - And some additional `AUDIO` properties for more efficient sound enhancement.
+---
+
+> [6.6.6]
 > 
 > - Enable Hi-Fi (High Fidelity) audio mode.
 > - Sets the maximum default volume for music/media to 100%.
