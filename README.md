@@ -21,9 +21,9 @@
 > 12. Multi-channel audio support (5.1).
 > 13. Audio enhancement for video.
 > 14. Optimization for external DAC.
-> 16. Improved Bluetooth audio quality.
-> 17. ALAC, APE, and various audio formats.
-> 18. And many other features.
+> 15. Improved Bluetooth audio quality.
+> 16. ALAC, APE, and various audio formats.
+> 17. And many other features.
 
 > [!TIP]
 > 1. Supports `Magisk` `APatch` `SukiSU` `KernelSU` and `other variants`.
