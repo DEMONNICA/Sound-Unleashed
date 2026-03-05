@@ -1,44 +1,37 @@
-> ![Image](https://github.com/user-attachments/assets/1a2c2332-6f34-4ea4-b915-82fa53428282)
+> ![Image](https://github.com/user-attachments/assets/ad9fc884-5f47-454d-8ce6-93909607f4f8)
 
 > [!NOTE]
-> - Deliver ultimate audio enhancement with chipset-specific optimizations (MediaTek & Qualcomm), full high-resolution support, Dolby/Dirac effects, maximum volume without restrictions, deep buffer & low-latency modes, backup/restore of original properties, and seamless service refresh for pristine, powerful sound on every boot.
-<hr/>
+> ```
+> Advanced audio tuner for superior sound experience
+> ```
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. Bypass & Disable Safe Media Volume Warning. ✔️  
-> 2. Maximum Volume Boost for Headset & Speaker (100% Full Scale). ✔️  
-> 3. True High-Resolution Audio Support (24-bit / 96kHz). ✔️  
-> 4. Enable Deep Buffer for Smoother Playback & Low-Latency Mode. ✔️  
-> 5. Force Audio Offload with Multi-Stream, Gapless Playback & Passthrough. ✔️  
-> 6. Activate Dolby DS2 / Dolby Atmos Enhancements. ✔️  
-> 7. Enable Dirac Audio Processing (Music & Speaker Optimization). ✔️  
-> 8. Full Spatial Audio & Ambisonic Support. ✔️  
-> 9. Hi-Fi Audio Mode with USB Super Hi-Fi & TFA Calibration. ✔️  
-> 10. Multi-Channel Audio Support (Including 5.1 Headset). ✔️  
-> 11. Optimized Speaker Stereo & Surround Sound Experience. ✔️  
-> 12. Advanced Audio Effects (HD EQ, Vocal Boost, Game Mode, etc.). ✔️  
-> 13. Qualcomm Fluence Noise Cancellation & Custom Stereo Features. ✔️  
-> 14. Chipset-Specific Tweaks (Dedicated Optimizations for MediaTek & Qualcomm). ✔️  
-> 15. Safe Backup & Full Restore of Original Audio Properties on Uninstall. ✔️  
-> 16. Dynamic Property Injection via `resetprop` with Service Auto-Refresh. ✔️  
-> 17. And many more deep audio enhancements for ultimate sound quality. ✔️
-<hr/>
+> 1. Supports sample rates up to 96kHz and 24-bit bit depth.
+> 2. Enable high quality audio mode.
+> 3. Premium sound effects support.
+> 4. Surround sound and virtualizer experience.
+> 5. Clear the secure volume restriction (safe media volume).
+> 6. 40 volume steps for more precise control.
+> 7. Increase speaker volume.
+> 8. Audio optimization for headsets.
+> 9. Reduce audio delay for gaming.
+> 10. Better audio buffer management.
+> 11. Audio offloading for efficiency.
+> 12. Multi-channel audio support (5.1).
+> 13. Audio enhancement for video.
+> 14. Optimization for external DAC.
+> 16. Improved Bluetooth audio quality.
+> 17. ALAC, APE, and various audio formats.
+> 18. And many other features.
 
 > [!TIP]
 > 1. Supports `Magisk` `APatch` `SukiSU` `KernelSU` and `other variants`.
 > 2. Minimum Android `10 sdk 29`.
-<hr/>
-
-> Download the module here 📦:                  
-> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
-> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
-<hr/>
 
 > [!WARNING]
 > Disclaimers 🛡️:
 > - This module is provided as is, without warranty of any kind. Any risks of use are entirely your responsibility. It is recommended to back up important data and configuration before installation. This module was developed in good faith to provide benefits, but the author is not responsible for any damage or problems that may occur as a result of its use.
-<hr/>
 
 > [!CAUTION]
 > Warning ☢️:
@@ -46,17 +39,8 @@
 > 2. This module can modify certain parts of the system. Under certain conditions or configurations, misuse may cause problems such as bootloops or system instability.
 > 3. Before proceeding with the installation, make sure you have access to a recovery mode such as TWRP or ADB as a safety measure in case something goes wrong.
 > 4. This module alters sensitive system parameters, including audio. Values and effects may vary by device. Misuse may damage your system. Use at your own risk.
-<hr/>
 
-<div align="center">
-If you like this work, please star ⭐ or follow me on GitHub.
-Your support means a lot and helps me to continue developing open source projects.
-You can also show further appreciation by donating below
-<div align="center">
-<hr/>
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
-[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-FF6B2A?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/demonica/tribe)
-[![Trakteer](https://img.shields.io/badge/Trakteer-FF0000?style=for-the-badge)](https://trakteer.id/demonica/tip)
-[![Saweria](https://img.shields.io/badge/Saweria-FFC107?style=for-the-badge&logoColor=black)](https://saweria.co/DEMONICA)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
+> Download 📦:        
+> - [Download now Sound Unleashed.](https://shrinkme.click/RBmH5NMj)
+> - [For Magisk Modules or other Plugins, please visit here.](https://t.me/Demoniica)
+----
